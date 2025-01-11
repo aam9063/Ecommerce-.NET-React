@@ -5,7 +5,7 @@ Proyecto de Ecommerce desarrollado en la parte de Backend con .NET utilizando En
 
 Se ha hecho uso de APIs externas como la de Stripe para implementar la funcionalidad de la pasarela de pagos. También se ha hecho uso de la API de Cloudinary, de Firebase y de SendGrid para envío de emails para recordar password o enviar emials de confirmación de orden de compra.
 
-Se ha seguido una arquitectura para el backend de Clean Architecture
+Se ha seguido una arquitectura para el backend de Clean Architecture separando el proyecto en API, Core e Infrastructure. Se ha creado una API REST para hacer consultas GET, POST, PUT y DELETE a la Base de Datos
 
 
 
