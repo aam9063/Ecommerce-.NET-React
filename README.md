@@ -12,5 +12,6 @@ Se ha seguido una arquitectura para el backend de Clean Architecture
 ![Architecture Screenshot](https://miro.medium.com/v2/resize:fit:800/1*0R0r00uF1RyRFxkxo3HVDg.png)
 
 
-![Architecture Screenshot](front.jpg)
+![Front Screenshot](front.jpg)
 
+![Backend Screenshot](swagger.jpg)
